@@ -11,22 +11,24 @@ require 'includes/header.php';
     <div class="row">
         <div class="column">
             <div class="card">
-                <img src="images/eg_civic.jpeg">
+                <img src="images/supra.jpg">
                 <div class="container">
-                    <h3>Eg Honda Civic si Hatchback</h3>
-                    <p>125 hp</p>
-                    <p>0-60mph: 7.5 s</p>
+                    <h3>Toyota Supra Turbo Mk4</h3>
+                    <p>276 hp *Allegedly*</p>
+                    <p>3,494 lbs</p>
+                    <p>0-60mph: 4.9 s</p>
 
                 </div>
             </div>
         </div>
         <div class="column">
             <div class="card">
-                <img src="images/AE86.jpg">
+                <img src="images/NSX.jpg">
                 <div class="container">
-                    <h3>Toyota Corolla AE86 Trueno</h3>
-                    <p>130 hp</p>
-                    <p>0-60mph: 8.6 s</p>
+                    <h3>Honda/Acura NSX</h3>
+                    <p>276 hp *Allegedly*</p>
+                    <p>3,010 lbs</p>
+                    <p>0-60mph: 5.5 s</p>
 
                 </div>
             </div>
@@ -36,7 +38,8 @@ require 'includes/header.php';
                 <img src="images/rx7.jpg">
                 <div class="container">
                     <h3>Mazda RX7 Fd Sprit R</h3>
-                    <p>255 hp</p>
+                    <p>276 hp *Allegedly*</p>
+                    <p>2,954 lbs</p>
                     <p>0-60mph: 4.9 s</p>
 
                 </div>
@@ -47,7 +50,8 @@ require 'includes/header.php';
                 <img src="images/r34gtr.jpg">
                 <div class="container">
                     <h3>Nissan Skyline GTR R34 M Spec Nur</h3>
-                    <p>276 hp</p>
+                    <p>276 hp *Allegedly*</p>
+                    <p>3,402 lbs</p>
                     <p>0-60mph: 4.6 s</p>
 
                 </div>

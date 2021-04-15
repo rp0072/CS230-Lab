@@ -21,19 +21,19 @@ p {
 }
 
 img {
-    height: 200px;
-    width: 385px;
+    height: 185px;
+    width: 360px;
 }
 
 .column {
     float: left;
     margin-right: 16px;
     margin: 10px;
-    width: 22%;
+    width: 23.5%;
 }
 
 .card {
-    height: 500px;
+    height: 400px;
     box-shadow: 0px 4px 8px 0 #b3b3b3f5;
     padding: 0 16px 0 16px;
     background: white;
