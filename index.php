@@ -37,7 +37,7 @@ require 'includes/header.php';
             <div class="card">
                 <img src="images/rx7.jpg">
                 <div class="container">
-                    <h3>Mazda RX7 Fd Sprit R</h3>
+                    <h3>Mazda RX7 FD Sprit R</h3>
                     <p>276 hp *Allegedly*</p>
                     <p>2,954 lbs</p>
                     <p>0-60mph: 4.9 s</p>
