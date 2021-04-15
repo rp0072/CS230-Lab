@@ -9,7 +9,7 @@ define("MB", 1048576);
 if (isset($_POST['prof-submit'])) {
     
     $uname = $_SESSION['uname'];
-    $file = $_FILE['prof-image'];
+    $file = $_FILES['prof-image'];
     $file_name = $file['name'];
     $file_tmp_name = $file['tmp_name'];
     $file_error = $file['error'];
@@ -44,7 +44,7 @@ if (isset($_POST['prof-submit'])) {
         mysqli_query($conn, $sql);
 
         move_uploaded_file($file_tmp_name, $destination);
-        header("Location: ../profile.php?success=UploadWin");
+        header("Location: ../profile.php?success=UploadSuccess");
         exit();
     }
 

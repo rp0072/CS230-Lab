@@ -44,7 +44,7 @@ require 'includes/header.php';
                     <p class="hint-text">Please login</p>
 
                     <div class="form-group">
-                        <input type="text" class="form-control" name="uname" placeholder="Username/ Email"
+                        <input type="text" class="form-control" name="uname-email" placeholder="Username/ Email"
                             required="required">
                     </div>
                     <div class="form-group">
